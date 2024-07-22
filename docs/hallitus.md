@@ -1,5 +1,5 @@
 layout: page
-title: Oskillaatio ry:n hallitus 2024
+title: Oskillaatio ry - Hallitus 2024
 permalink: /hallitus
 
 ## Hallitus 2024
