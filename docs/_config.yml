@@ -22,7 +22,7 @@ title: Oskillaatio - Helsingin yliopiston fysikaalisten tieteiden alumnit ry
 email: oskillaatio-hallitus@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Oskillaatio ry on Helsingin yliopiston fysikaalisia tieteitä opiskelleiden tai
-  fysikaalisten tieteiden aloilla työskennelleiden alumnijärjstö.
+  fysikaalisten tieteiden aloilla työskennelleiden alumnijärjstö
 baseurl: "" # the subpath of your site, e.g. /blog
 #domain: oskillaatio.github.io
 #url: https://oskillaatio.github.io/docs # the base hostname & protocol for your site, e.g. http://example.com
