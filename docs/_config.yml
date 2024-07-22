@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   fysikaalisten tieteiden aloilla työskennelleiden alumnijärjstö.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: oskillaatio.github.io
-url: https://oskillaatio.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://oskillaatio.github.io/docs # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
