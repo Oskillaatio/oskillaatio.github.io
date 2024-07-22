@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Oskillaatio ry - Hallitus 2024
+title: Hallitus 2024
 permalink: /hallitus
 ---
-
-## Hallitus 2024
 **Anton Saressalo**
 Puheenjohtaja, Yhteistyövastaava (IAPS)
 
