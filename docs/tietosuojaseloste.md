@@ -3,7 +3,7 @@ layout: page
 title: "Tietosuojaseloste"
 permalink: /tietosuojaseloste
 ---
-##Jäsenrekisterin tietosuojaseloste
+## Jäsenrekisterin tietosuojaseloste
 
 Tämä on EU:n yleisen tietosuoja-asetuksen mukainen rekisteri- ja tietosuojaseloste.  
 Laatimispäivämäärä 18.6.2024. Viimeisin muutos 18.6.2024
