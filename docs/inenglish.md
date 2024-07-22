@@ -1,5 +1,5 @@
 ---
 layout: page
-title "In English"
+title: "In English"
 permalink: /en
 ---
