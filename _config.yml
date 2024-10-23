@@ -12,19 +12,19 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fi-FI"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Oskillaatio ry"
 title_separator          : "-"
 subtitle                 : "Oskillaatio - Helsingin yliopiston fysikaalisten tieteiden alumnit ry" # site tagline that appears below site title in masthead
-name                     : #"Your Name"
+name                     : "Oskillaatio ry" #"Your Name"
 description              : "Oskillaatio ry on Helsingin yliopiston fysikaalisia tieteitä opiskelleiden tai fysikaalisten tieteiden aloilla työskennelleiden alumnijärjstö"
 url                      : "https://oskillaatio.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "oskillaatio.github.io/oskillaatio" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/Oskillaatio.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
