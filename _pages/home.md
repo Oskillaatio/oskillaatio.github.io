@@ -69,7 +69,7 @@ feature_row:
             <h3 class="archive__item-title"><a href="{{ site.baseurl }}{{ post.url}}" rel="permalink">{{ post.title }}</a></h3>
             <div class="archive__item-excerpt">
                <p>{{ post.excerpt | markdownify }}</p>
-               <div align="right"><b>{{post.date | date: "%d.%m.%Y"}}</b></div>
+               <div style="position:aboslute;bottom:0;right:0" align="right"><b>{{post.date | date: "%d.%m.%Y"}}</b></div>
             </div>
          </div>
       </div>
