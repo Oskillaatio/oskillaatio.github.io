@@ -1,0 +1,9 @@
+main:
+  - title: "Yhdistys"
+    url: /yhdistys/
+  - title: "Tapahtumat"
+    url: /tapahtumat/
+  - title: "Yhteystiedot"
+    url: /yhteystiedot/
+  - title: "Liity jäseneksi"
+    url: "https://forms.gle/EEA1BEzemyVxmqceA"
