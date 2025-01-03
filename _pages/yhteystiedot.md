@@ -5,7 +5,7 @@ title: "Yhteystiedot"
 
 Oskillaatio – Helsingin yliopiston fysikaalisten tieteiden alumnit ry
 
-**Y-tunnus:** Y-tunnus: 3455950-7
+**Y-tunnus:** 3455950-7
 
 **Kotipaikka:** Helsinki
 
