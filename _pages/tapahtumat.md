@@ -14,4 +14,4 @@ Hallituksen kokoukset ovat lähtökohtaisesti avoimia kaikille yhdistyksen jäse
 
 * **13.12.2024** Pikkujouluruokailu & -sauna
 * **5.10.2024** Jousiammuntaexcu
-* **23.8.2024** Alumnisauna resonanssin kanssa
+* **23.8.2024** Alumnisauna Resonanssin kanssa
