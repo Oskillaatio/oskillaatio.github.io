@@ -29,7 +29,7 @@ feature_row:
     btn_class: "btn--info"
   - image_path: /assets/images/oskillaatio-logo_kesk.png
     title: "Tiedotuskanavat"
-    url: /yhteys/
+    url: /yhteystiedot/
     btn_label: "Seuraa yhdistystä"
     btn_class: "btn--info"    
     excerpt: "Oskillaation toiminnasta tiedotetaan sähköpostilistalla, [Facebook-ryhmässä](https://www.facebook.com/groups/5306881863/) ja [Telegram-keskustelussa](https://t.me/+fb_BwM_D0SUxYjU0)."
