@@ -209,9 +209,14 @@ body {
     .page__title {
       color: #fff;
       -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.5);
-      paint-order: stroke fill;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);     
       padding-bottom: 15px
+    }
+    .page__title span {
+      position: absolute;
+      left: 0;
+      -webkit-text-stroke: 0;
+      pointer-events: none;  
     }
     .page__lead {
       color: #730053;
