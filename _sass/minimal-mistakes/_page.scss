@@ -206,12 +206,25 @@ body {
       }
     }
 
-    .page__title,
-    .page__meta,
-    .page__lead,
-    .btn {
+    .page__title {
+      color: #fff;
+      -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.5);
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);     
+      padding-bottom: 15px
+    }
+    .page__lead {
+      color: #730053;
+      text-shadow: 1px 1px 1px rgba(#000, 0.3);  
+      padding-bottom: 40px;
+    }
+    .page__meta {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    }
+    .btn {
+      color: #3dbca7;
+      border: 1px solid #3dbca7;
+      // text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
     .page__lead {

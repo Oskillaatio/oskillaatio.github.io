@@ -4,12 +4,12 @@ layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#fffff"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/sinit_valkotausta.png
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
+  overlay_color: "#ff00ff"
+  overlay_filter: "0"
+  overlay_image: /assets/images/sinit_harmaatausta.png
+  actions:
+    - label: "Liity jäseneksi"
+      url: "https://forms.gle/EEA1BEzemyVxmqceA"
 excerpt: "Oskillaatio on kaikkien Helsingin yliopiston fysikaalisten tieteiden alumnien yhdistys"
 feature_row:
   - image_path: /assets/images/oskillaatio-logo_kesk.png
