@@ -1,9 +1,16 @@
 main:
   - title: "Yhdistys"
     url: /yhdistys/
+    children:
+      - title: "Yhdistyksen säännöt"
+        url: "/yhdistys/saannot/"
   - title: "Tapahtumat"
     url: /tapahtumat/
+  - title: "Postaukset"
+    url: /posts/
   - title: "Yhteystiedot"
     url: /yhteystiedot/
   - title: "Liity jäseneksi"
     url: "https://forms.gle/EEA1BEzemyVxmqceA"
+  - title: "In English"
+    url: /inenglish/

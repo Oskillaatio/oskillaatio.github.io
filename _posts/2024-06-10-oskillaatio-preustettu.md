@@ -2,7 +2,7 @@
 title: "Oskillaatio ry perustettu"
 date: 2024-06-10T20:34:30+03:00
 categories:
-  - blog
+  - Postaukset
 tags:
   - yhdistys
   - perustaminen

@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: 
 
 locale: "fi"
-minimal_mistakes_skin: air
+minimal_mistakes_skin: mint
 search: true
 logo: "/assets/images/oskillaatio-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 date_format: "%d.%m.%Y"
@@ -34,8 +34,6 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 timezone: Europe/Helsinki
 include:
   - _pages
@@ -109,7 +107,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
