@@ -12,14 +12,14 @@ header:
       url: "https://forms.gle/EEA1BEzemyVxmqceA"
 excerpt: "Oskillaatio on kaikkien Helsingin yliopiston fysikaalisten tieteiden alumnien yhdistys"
 feature_row:
-  - image_path: /assets/images/oskillaatio-logo_kesk.png
+  - image_path: /assets/images/oskillaatio-logo.png
     alt: "placeholder image 1"
     title: "Liity jäseneksi"
     url: https://forms.gle/EEA1BEzemyVxmqceA
     excerpt: "Uudet jäsenhakemukset käsitellään seuraavassa hallituksen kokouksessa." #"Liity yhdistyksen jäseneksi täyttämällä jäsenlomake"
     btn_label: "Jäsenhakulomake"
     btn_class: "btn--info"
-  - image_path: /assets/images/oskillaatio-logo_kesk.png
+  - image_path: /assets/images/oskillaatio-logo.png
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     # alt: "placeholder image 2"
     title: "Tulevat tapahtumat"
@@ -27,7 +27,7 @@ feature_row:
     url: "/tapahtumat/"
     btn_label: "Tapahtumakalenteri"
     btn_class: "btn--info"
-  - image_path: /assets/images/oskillaatio-logo_kesk.png
+  - image_path: /assets/images/oskillaatio-logo.png
     title: "Tiedotuskanavat"
     url: /yhteystiedot/
     btn_label: "Seuraa yhdistystä"

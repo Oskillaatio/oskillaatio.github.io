@@ -7,7 +7,7 @@ main:
   - title: "Tapahtumat"
     url: /tapahtumat/
   - title: "Postaukset"
-    url: /posts/
+    url: /postaukset/
   - title: "Yhteystiedot"
     url: /yhteystiedot/
   - title: "Liity jäseneksi"
