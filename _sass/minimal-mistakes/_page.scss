@@ -17,6 +17,10 @@
   }
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -235,7 +239,7 @@ body {
     }
     .btn {
       color: #3dbca7;
-      border: 1px solid #3dbca7;
+      border: 2px solid #3dbca7;
       // text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
