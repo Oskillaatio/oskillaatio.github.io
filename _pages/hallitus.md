@@ -33,6 +33,5 @@ Yhdistyksen hallituksen tavoittaa sähköpostista oskillaatio-hallitus@helsinki.
 | **Jere Remes**             | Hallituksen jäsen |
 | **Petri Savolainen**       | Hallituksen jäsen |
 | **Satumaaria Sukuvaara**   | Hallituksen jäsen |
-| **Olli Väisänen**          | Varapuheenjohtaja |
 | **Ronja Öhrnberg**         | Hallituksen jäsen |
 
