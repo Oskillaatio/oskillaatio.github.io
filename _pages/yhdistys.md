@@ -25,7 +25,7 @@ Oskillaatio – Helsingin yliopiston fysikaalisten tieteiden alumnit ry toimii H
 [Turvallisemman tilan periaatteita](/yhdistys/ttp/) noudatetaan kaikissa oskillaation tapahtumissa ja niiden hyväksyminen on edellytys tapahtumiin osallistumiselle. 
 
 ### [Kulukorvaushakemus](https://forms.gle/ofNn69YaukKZkzZ78)
-Kulukorvauksia haetaan [sähköisellä lomakkeella]((https://forms.gle/ofNn69YaukKZkzZ78)). Kulukorvaushakemukset käsitellään hallituksen kokouksissa 1-2 kuukauden välein.
+Kulukorvauksia haetaan [sähköisellä lomakkeella](https://forms.gle/ofNn69YaukKZkzZ78). Kulukorvaushakemukset käsitellään hallituksen kokouksissa 1-2 kuukauden välein.
 
 ## [Hallitus](/yhdistys/hallitus/)
 
