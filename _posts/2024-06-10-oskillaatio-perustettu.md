@@ -39,10 +39,3 @@ Ehdotuksista kaksi kandidaattia valittiin äänestykseen:
 * Oskillaatio – Helsingin yliopiston fysikaalisten tieteiden alumnit ry: 10 ääntä
 
 Lopulta yhdistyksen nimeksi valittiin: **Oskillaatio – Helsingin yliopiston fysikaalisten tieteiden alumnit ry**. Oskillaatio kuvastaa fysikaalista ilmiötä (jonka erityistapaus on Resonanssi). Se on myös helppo muistaa ja käyttää eri yhteyksissä. Loppuosaksi valittiin muoto, joka on inklusiivisempi.
-
-
-<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
