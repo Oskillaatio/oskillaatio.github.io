@@ -7,7 +7,7 @@ tags:
   - tapahtumat
   - vappu
   - excu
-  - vuosijuhla
+  - vuosipäivä
 ---
 
 Oskillaation vuosi 2025 on saatu käyntiin. Yhdistykselle on saatu nettisivut ja monet tapahtumat ovat vakiinnuttaneet paikkansa.
