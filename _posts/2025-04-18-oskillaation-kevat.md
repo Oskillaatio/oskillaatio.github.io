@@ -12,7 +12,7 @@ tags:
 
 Oskillaation vuosi 2025 on saatu käyntiin. Yhdistykselle on saatu nettisivut ja monet tapahtumat ovat vakiinnuttaneet paikkansa.
 
-Alkuvuodesta on pidetty neljät kellarikaljat, excuja näyttelyihin ja Avaruusseikkailu-leffamaraton. Hallitus on kokoustanut noin kuukauden välein ja yhdistyksen kevätkokouksessa vuoden 2024 halltius sai vastuuvapauden.<!--more-->
+Alkuvuodesta on pidetty neljät kellarikaljat, excuja näyttelyihin ja Avaruusseikkailu-leffamaraton. Hallitus on kokoustanut noin kuukauden välein ja yhdistyksen kevätkokouksessa vuoden 2024 hallitus sai vastuuvapauden.<!--more-->
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Oskillaatio_kevatkokous_2025.jpg)
 *Yhdistyksen kevätkokouksesta 14.3.2025.*
