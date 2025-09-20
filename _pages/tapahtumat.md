@@ -10,8 +10,11 @@ Oskillaation säännöllisin tapahtuma on **Kuukausittainen kellarikalja**, joka
 
 Hallituksen kokoukset ovat lähtökohtaisesti avoimia kaikille yhdistyksen jäsenille.
 
-## Menneitä tapahtumia
-
+## Esimerkkejä menneistä tapahtumista
+* **4.6.2025** Vuosipäiväpiknik
+* **1.5.2025** Vappuskumpat
+* **30.4.2025** Vappulounas
+* **29.3.2025** Leffamaraton Otaniemen Kinopolissa
 * **13.12.2024** Pikkujouluruokailu & -sauna
 * **5.10.2024** Jousiammuntaexcu
 * **23.8.2024** Alumnisauna Resonanssin kanssa
