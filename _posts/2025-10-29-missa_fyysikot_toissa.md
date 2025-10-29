@@ -10,7 +10,7 @@ tags:
   - urapolku
 ---
 
-Fyysikan alumnien työelämäseminaari ti 11.11.2025 klo 17:00 Exactumin salisa D123<!--more-->
+Fyysikan alumnien työelämäseminaari **ti 11.11.2025 klo 17:00 Exactumin salissa D123**<!--more-->
 
 Oletko koskaan miettinyt minne muut fyysikkoalumnit ovat päätyneet töihin?
 
