@@ -39,3 +39,4 @@ Olli Wilkman väitteli tähtitieteestä vuonna 2016 aiheenaan asteroidien valonh
 Vuodesta 2021 Olli on työskennellyt koodarina CSC:llä sensitiivisen datan säilytyksen parissa.
 
 ## Teemu Stepanoff ##
+Teemu Stepanoff toimii VTT:llä tutkijana.
