@@ -1,5 +1,5 @@
 ---
-title: "Missä fyysikot ovat töissä -seminaari ti 11.11.2025"
+title: "Missä fyysikot ovat töissä -seminaari"
 date: 2025-10-29T21:30:30+02:00
 categories:
   - Postaukset
@@ -9,6 +9,8 @@ tags:
   - työelämä
   - urapolku
 ---
+
+Fyysikan alumnien työelämäseminaari ti 11.11.2025 klo 17:00 Exactumin salisa D123<!--more-->
 
 Oletko koskaan miettinyt minne muut fyysikkoalumnit ovat päätyneet töihin?
 
