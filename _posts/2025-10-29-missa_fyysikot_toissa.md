@@ -12,9 +12,7 @@ tags:
 
 Fyysikan alumnien työelämäseminaari **ti 11.11.2025 klo 17:00 Exactumin salissa D123.**<!--more-->
 
-Oletko koskaan miettinyt minne muut fyysikkoalumnit ovat päätyneet töihin?
-
-Tähän kysymykseen vastaa Oskillaatioon ja Resonanssin yhteistyönä järjestämä seminaari 11. marraskuuta. Seminaarin keskiössä ovat erityisesti akatemian ulkopuoliset uravaihtoehdot. 
+Oletko koskaan miettinyt minne fyysikkoalumnit ovat päätyneet töihin? Tähän kysymykseen vastaa Oskillaatioon ja Resonanssin yhteistyönä järjestämä seminaari 11. marraskuuta. Seminaarin keskiössä ovat erityisesti akatemian ulkopuoliset uravaihtoehdot. 
 
 Saavu siis **Kumpulaan, Exactumin luokkaan D123 ti 11.11. klo 17**, jolloin kokemuksia ja uravinkkejä tarjoavat seuraavat fysiikaalisten tieteiden alumnit:
 
