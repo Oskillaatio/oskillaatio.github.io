@@ -39,4 +39,6 @@ Olli Wilkman väitteli tähtitieteestä vuonna 2016 aiheenaan asteroidien valonh
 Vuodesta 2021 Olli on työskennellyt koodarina CSC:llä sensitiivisen datan säilytyksen parissa.
 
 ## Teemu Stepanoff ##
-Teemu Stepanoff toimii VTT:llä tutkijana.
+Teemu Stepanoff on teoreettinen fyysikko, joka toimii kvanttilaskennan tutkijana VTT:llä.
+
+Stepanoff aloittii työskentelyn VTT:llä 2024 keväällä materiaalimallinnuksen tiimissä, jossa hän kirjoitti gradunsa. Maisterityö keskittyi Variational Quantum Eigensolver (VQE) hybridialgoritmiin joka on olennainen osa lähitulevaisuuden kvanttilaksentaa. Nyt VTT:llä Stepanoff kartoittaa klassisesti vaikeasti ratkaistavia materiaalifysiikan ja kvanttikemian ongelmia, joiden ratkaisu kvanttikoneella voisi mahdollisesti sujua huomattavasti tehokkaammin.
