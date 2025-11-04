@@ -37,6 +37,11 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Helsinki
 excerpt_separator: <!--more-->
+analytics:
+  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: "G-E5E1VBVKWM"
+    anonymize_ip: # true, false (default)
 include:
   - _pages
 
