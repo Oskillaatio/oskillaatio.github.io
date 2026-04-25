@@ -1,6 +1,6 @@
 ---
 title: "Oskillaation kevään tapahtumia"
-date: 2026-04-025T11:55:00+2:00
+date: 2026-04-25T12:30:30+02:00
 categories:
   - Postaukset
 tags:
