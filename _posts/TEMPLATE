@@ -1,0 +1,39 @@
+---
+title: "Uusi blogipostaus"
+date: 2026-04-25T12:00:00+02:00
+categories:
+  - Postaukset
+tags:
+  - tapahtumat
+---
+
+Nimeä tiedosto muodossa 2026-04-25-uusi_blogipostaus.md (Huom! Muista tiedostopääte). URL tulee olemaan muotoa https://oskillaatio.fi/postaukset/uusi_blogipostaus
+
+Ensimmäisen (lyhyen) kappaleen jälkeen kannattaa laittaa tagi <!--more--> joka katkaisee etusivun noston tekstin.
+
+Markdown-komentoja:
+Heading:
+# H1
+## H2
+### H3
+Bold	**bold text**
+Italic	*italicized text*
+Blockquote	> blockquote
+
+Ordered List:
+1. First item
+2. Second item
+3. Third item
+
+Unordered List:
+- First item
+- Second item
+- Third item
+
+Code	`code`
+
+Horizontal Rule	---
+
+Link	[title](https://www.example.com)
+Internal link [title](/internal/address)
+Image	![alt text](image.jpg)
