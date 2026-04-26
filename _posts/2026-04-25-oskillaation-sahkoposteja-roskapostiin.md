@@ -8,7 +8,7 @@ tags:
   - tiedotus
 ---
 
-Vuoden 2026 alusta lähtien ainakin Gmailin roskapostisuodatin on alkanut erittäin aggressiiviseksi ja ohjaamaan lähes kaikki Oskillaatio-listan sähköpostit suoraan roskapostiin.
+Vuoden 2026 alusta lähtien ainakin Gmailin roskapostisuodatin on alkanut erittäin aggressiiviseksi ja ohjaamaan lähes kaikki Oskillaatio-listan sähköpostit suoraan roskapostiin.<!--more-->
 
 Kannattaa siis seurata Oskillaation viestintää sähköpostilistan lisäksi myös muissa kanavissa, kuten [Telegramissa](https://t.me/+fb_BwM_D0SUxYjU0) tai [tapahtumakalenterissa](https://oskillaatio.fi/tapahtumat/).
 
