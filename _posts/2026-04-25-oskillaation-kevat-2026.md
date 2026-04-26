@@ -10,7 +10,7 @@ tags:
   - vuosipäivä
 ---
 
-Tervetuloa viettämään vappua fyysikkoalumnien seurassa! Myöhemmin alkukesästä luvassa mm. kellarikaljoja, excuja sekä vuosipäiväpiknik.
+Tervetuloa viettämään vappua fyysikkoalumnien seurassa! Myöhemmin alkukesästä luvassa mm. kellarikaljoja, excuja sekä vuosipäiväpiknik.<!--more-->
 
 ## Kevään 2026 tapahtumia ##
 
