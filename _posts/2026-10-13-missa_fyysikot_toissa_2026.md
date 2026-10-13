@@ -17,7 +17,6 @@ Oletko koskaan miettinyt minne fyysikkoalumnit ovat päätyneet töihin? Tähän
 Saavu siis **Kumpulaan, Exactumin luokkaan B222 ti 5.11. klo 17**, jolloin kokemuksia ja uravinkkejä tarjoavat seuraavat fysiikaalisten tieteiden alumnit:
 
 ## Jenna Salminen ##
-[//] ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/Tommi_Tenkanen.png){: width="50%" }\
 
 ## Pentti Arffman ##
 
