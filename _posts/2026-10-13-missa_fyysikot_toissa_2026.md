@@ -25,3 +25,4 @@ Saavu siis **Kumpulaan, Exactumin luokkaan B222 ti 5.11. klo 17**, jolloin kokem
 ## Peetu Ihalainen ##
 
 ## Terhi Järvinen ##
+Terhi Järvinen on kokeellisen hiukkasfysiikan tohtori, joka työskentelee data- ja data science konsulttina Siili Solutionsilla. Terhin työ koostuu pidemmistä ja lyhyemmistä projekteista eri asiakkailla sekä myyntityöstä Siilillä: Terhi on ollut tekemässä mm. dataputkia IT-firmalle,  ja tekoälypohjaisia chatbotteja vakuutusyhtiöön. Aiemmin Terhi on työskennellyt data science -tehtävissä OP:lla asuntojen hintojen mallintamisen ja rahanpesun estämisen parissa ja ML engineerinä Keskolla kehittäen ja ylläpitäen k-ruoka.fin ja K-ryhmän mobiilisovelluksen palveluja.
