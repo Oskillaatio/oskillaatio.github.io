@@ -19,10 +19,17 @@ Saavu siis **Kumpulaan, Exactumin luokkaan B222 ti 5.11. klo 17**, jolloin kokem
 ## Jenna Salminen ##
 
 ## Pentti Arffman ##
+Pentti Arffman toimii tutkijana VTT:llä ydinturvallisuuden alueella, tutkien materiaalien mekaanisia ja murtumismekaanisia ominaisuuksia, etenkin neutronisäteilyn aiheuttamia muutoksia metalleihin rikkovin menetelmin. Käytännön työ koostuu kokeellisen tutkimuksen suunnittelusta, rahoituksen hakemisesta tai asiakastyön valmistelusta sekä tutkimusaineiston analysoinnista ja raportoinnista. 
+
+Pentti valmistui fysiikan maisteriksi Helsingin yliopistosta vuonna 2019. Hän työskenteli jo ennen valmistumistaan VTT:llä, ja teki siellä pro gradu -työnsä murtumismekaanisista kokeista. Opintojensa aikana Pentti työskenteli harjoittelijana Ilmatieteen laitoksella tutkien ojitettujen soiden ympäristövaikutuksia. Hänestä on hauska tulla kertomaan omasta urastaan seuraavan sukupolven neroille!
 
 ## Merli Juustila ##
 
 ## Peetu Ihalainen ##
+Peetu Ihalainen valmistui vuonna 2024 maisteriksi materiaalitutkimuksen maisteriohjelmasta elektroniikan ja teollisuusfysiikan tutkintosuunnalta. Opiskelujen aikana työskentely Elektroniikan tutkimuslaboratoriossa tekivät erityisesti elektroniikan ja ultrasoniikan tutuiksi hänelle.
 
+Nyt hän työskentelee Nanoform Finland Oyj:ssä tutkimus- ja kehitysinsinöörinä. Nanoform on yritys, joka on erikoistunut pienten lääkeainepartikkeleiden valmistamiseen. Työssä on ollut siis paljon sellaista opittavaa, johon ei tutustunut opintojen aikana. Elektroniikka ja ultrasoniikka ovat vaihtuneet laitteistojen kehittämiseen ja ylläpitoon. Työ sisältää paljon käytännön tekemistä; sekä laboratoriotyöskentelyä, että asennustyötä. Sen lisäksi työssä pääsee tuijottamaan dataa ja 3D-mallintamaan.
+
+Työyhteisö on hyvin monialainen, joten työssä tapaa ja pääsee oppimaan esimerkiksi kemian, farmasian ja biologian ammattilaisilta.
 ## Terhi Järvinen ##
 Terhi Järvinen on kokeellisen hiukkasfysiikan tohtori, joka työskentelee data- ja data science konsulttina Siili Solutionsilla. Terhin työ koostuu pidemmistä ja lyhyemmistä projekteista eri asiakkailla sekä myyntityöstä Siilillä: Terhi on ollut tekemässä mm. dataputkia IT-firmalle,  ja tekoälypohjaisia chatbotteja vakuutusyhtiöön. Aiemmin Terhi on työskennellyt data science -tehtävissä OP:lla asuntojen hintojen mallintamisen ja rahanpesun estämisen parissa ja ML engineerinä Keskolla kehittäen ja ylläpitäen k-ruoka.fin ja K-ryhmän mobiilisovelluksen palveluja.
