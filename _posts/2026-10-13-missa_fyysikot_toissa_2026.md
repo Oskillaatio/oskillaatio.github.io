@@ -19,18 +19,18 @@ Saavu siis **Kumpulaan, Exactumin luokkaan B222 ti 5.11. klo 17**, jolloin kokem
 [//]: <> ## Jenna Salminen ##
 
 ## Pentti Arffman ##
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/Pena.jpg){: width="50%" }\
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/pena.jpg){: width="50%" }\
 Pentti Arffman toimii tutkijana VTT:llä ydinturvallisuuden alueella, tutkien materiaalien mekaanisia ja murtumismekaanisia ominaisuuksia, etenkin neutronisäteilyn aiheuttamia muutoksia metalleihin rikkovin menetelmin. Käytännön työ koostuu kokeellisen tutkimuksen suunnittelusta, rahoituksen hakemisesta tai asiakastyön valmistelusta sekä tutkimusaineiston analysoinnista ja raportoinnista. 
 
 Pentti valmistui fysiikan maisteriksi Helsingin yliopistosta vuonna 2019. Hän työskenteli jo ennen valmistumistaan VTT:llä, ja teki siellä pro gradu -työnsä murtumismekaanisista kokeista. Opintojensa aikana Pentti työskenteli harjoittelijana Ilmatieteen laitoksella tutkien ojitettujen soiden ympäristövaikutuksia. Hänestä on hauska tulla kertomaan omasta urastaan seuraavan sukupolven neroille!
 
 ## Merli Juustila ##
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/Merli.jpg){: width="50%" }\
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/merli.jpg){: width="50%" }\
 Merli Juustila valmistui maisteriksi aerosolifysiikasta 2014 ja jatkoi tohtoriopintoja ilmakehätieteissä. Tohtoriopinnot kuitenkin keskeytyivät kun piti lähteä firmaa perustamaan ja Merli perusti hiilijalanjälkilaskentaan keskittyvän startupin. Pelkkään hiililaskentaan ei kuitenkaan vastuullisuustyö rajoitu ja hän vaihtoi toiseen firmaan tekemään kokonaisvaltaista vastuullisuusanalyysiä ja vastuullisuuden automatisointia. Nyt Merli työskentelee Keskuskauppakamarilla vastuullisuusasiantuntijana ja on mukana mm. Suomen paviljongissa YK:n ilmastokokouksessa.
 
 Merli on ollut töissä myös ammattiliitossa ja opettanut yliopistolla useita vuosia työelämäopintoja. Pitkä järjestötausta myös vapaaehtoispuolella.
 ## Peetu Ihalainen ##
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/Peetu.jpg){: width="50%" }\
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/peetu.jpg){: width="50%" }\
 Peetu Ihalainen valmistui vuonna 2024 maisteriksi materiaalitutkimuksen maisteriohjelmasta elektroniikan ja teollisuusfysiikan tutkintosuunnalta. Opiskelujen aikana työskentely Elektroniikan tutkimuslaboratoriossa tekivät erityisesti elektroniikan ja ultrasoniikan tutuiksi hänelle.
 
 Nyt hän työskentelee Nanoform Finland Oyj:ssä tutkimus- ja kehitysinsinöörinä. Nanoform on yritys, joka on erikoistunut pienten lääkeainepartikkeleiden valmistamiseen. Työssä on ollut siis paljon sellaista opittavaa, johon ei tutustunut opintojen aikana. Elektroniikka ja ultrasoniikka ovat vaihtuneet laitteistojen kehittämiseen ja ylläpitoon. Työ sisältää paljon käytännön tekemistä; sekä laboratoriotyöskentelyä, että asennustyötä. Sen lisäksi työssä pääsee tuijottamaan dataa ja 3D-mallintamaan.
