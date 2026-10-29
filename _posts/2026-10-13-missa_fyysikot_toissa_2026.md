@@ -19,7 +19,7 @@ Saavu siis **Kumpulaan, Exactumin luokkaan B222 ti 5.11. klo 17**, jolloin kokem
 [//]: <> ## Jenna Salminen ##
 
 ## Pentti Arffman ##
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/pena.jpg){: width="50%" }\
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Tyoelamaseminaari/pena.jpg){: width="50%" .center-img}\
 Pentti Arffman toimii tutkijana VTT:llä ydinturvallisuuden alueella, tutkien materiaalien mekaanisia ja murtumismekaanisia ominaisuuksia, etenkin neutronisäteilyn aiheuttamia muutoksia metalleihin rikkovin menetelmin. Käytännön työ koostuu kokeellisen tutkimuksen suunnittelusta, rahoituksen hakemisesta tai asiakastyön valmistelusta sekä tutkimusaineiston analysoinnista ja raportoinnista. 
 
 Pentti valmistui fysiikan maisteriksi Helsingin yliopistosta vuonna 2019. Hän työskenteli jo ennen valmistumistaan VTT:llä, ja teki siellä pro gradu -työnsä murtumismekaanisista kokeista. Opintojensa aikana Pentti työskenteli harjoittelijana Ilmatieteen laitoksella tutkien ojitettujen soiden ympäristövaikutuksia. Hänestä on hauska tulla kertomaan omasta urastaan seuraavan sukupolven neroille!
